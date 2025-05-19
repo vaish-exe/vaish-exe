@@ -26,6 +26,13 @@ Here I dove into **performance marketing** — managing **Meta and Google ads**,
 I also helped implement **Salesforce Marketing Cloud**, transforming 10+ years of customer data into **journey-based automation** for email, SMS, and digital touchpoints.  
 → [View Project](https://github.com/vaish-exe/tamara-performance-marketing)
 
+---
+
+###  Academic Projects at ASU  
+As part of my coursework at Arizona State University, I've worked on a variety of hands-on projects involving **machine learning**, **computer vision**, and **time-series modeling** — applying analytics to real-world problems in energy, logistics, and education.
+
+You can explore them all here:  
+→ [Academic Projects Folder](https://github.com/vaish-exe/academic-projects)
 
 ---
 
